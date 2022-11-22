@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-struct Persona
-{
+struct Persona{
+	
 	char nombre[40];
 	long edad;
 	char genero;
@@ -10,8 +10,8 @@ struct Persona
 
 struct Persona usuario;
 
-int main ()
-{
+int main (){
+	
 	struct Fecha
 	{
 		int dia;
