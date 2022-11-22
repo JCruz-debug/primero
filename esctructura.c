@@ -10,7 +10,7 @@ struct Persona{
 
 struct Persona usuario;
 
-int main (){
+int main(){
 	
 	struct Fecha
 	{
